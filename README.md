@@ -1,10 +1,7 @@
 # Weather App
 
-## Algoriza Task
+## Weather App with Api 
 
-# 📱 Screenshots #
-
-![Screen](https://user-images.githubusercontent.com/101954795/189349033-2d2d4e55-65f3-49a5-a4e0-36f6fc44592d.jpg)
 
 # 📱 Video Screen #
 
